@@ -36,6 +36,8 @@ Richard Stallman
 
 ```c
 #include <stdio.h>
+#include <stdlib.h>
+
 struct text {
   char *msg;
 };
