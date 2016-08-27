@@ -59,7 +59,8 @@
 - nodm
 - CDM
 - Console TDM
-- ...
+
+
 ##Distros
 
 ```c
