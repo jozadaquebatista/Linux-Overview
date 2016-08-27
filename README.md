@@ -1,4 +1,5 @@
-#Linux Overview
+##@GNU/Linux Overview
+######A Super brief GNU/Linux History compilation
 
 <pre>
             .--------------.
@@ -12,9 +13,9 @@
 /'|_   _/'\
 \___)=(___/"""
 </pre>
-> Tux
+> @Tux, GNU/Linux Mascot
 
-##What is Linux?
+##What is GNU/Linux?
 
 ##Why I should use it?
 ##Terminal
@@ -45,8 +46,6 @@
 - openbox
 - i3wm
 - twm
-
-
 
 ##Display Managers
 - GDM
