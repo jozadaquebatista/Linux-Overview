@@ -26,12 +26,39 @@
 5.dir<br>
 ###useful command set
 #Important People
-Linus Torvalds
-<br>
-Richard Stallman
+- Linus Torvalds
+- Richard Stallman
+- Ken Thompson and Dennis Ritchie
+
 ##Enviroments
 ##Window Managers
-##Login Managers
+- 2bwm
+- awesome
+- aewm
+- cwm
+- enlightenment
+- eggwm
+- evilwm
+- flwm
+- fvwm
+- fluxbox
+- openbox
+- i3wm
+- twm
+- ...
+##Display Managers
+- GDM
+- LightDM
+- LXDM
+- MDM
+- SDDM
+- SLiM
+- XDM
+- Entrance
+- nodm
+- CDM
+- Console TDM
+- ...
 ##Distros
 
 ```c
