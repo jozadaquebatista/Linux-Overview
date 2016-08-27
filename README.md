@@ -45,7 +45,9 @@
 - openbox
 - i3wm
 - twm
-- ...
+
+
+
 ##Display Managers
 - GDM
 - LightDM
