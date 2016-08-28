@@ -62,6 +62,17 @@
 
 
 ##Distros
+- Slackware
+- Arch Linux
+- Debian
+- Redhat
+- Manjaro
+- Ubuntu
+- Tails
+- ZorinOS
+- Fedora
+- CentOs
+- 
 
 ```c
 #include <stdio.h>
