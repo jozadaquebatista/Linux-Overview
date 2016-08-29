@@ -27,11 +27,11 @@
 5.dir<br>
 ###useful command set
 #Important People
-- Linus Torvalds
+- > Linus Torvalds
   - This guy created the linux kernel, based on minix.
-- Richard Stallman
+- > Richard Stallman
   - He created the GNU and open projects for the linux kernel, his main porpouse was to create a totally free and open Operating System, and almost had to create the official kernel.
-- Ken Thompson and Dennis Ritchie
+- > Ken Thompson and Dennis Ritchie
   - These guys had created the C Programming Language, that is used a lot in many things inside the linux kernel and GNU software. 
 
 ##Enviroments
