@@ -1,8 +1,7 @@
 ##@GNU/Linux Overview
 ######A Super brief GNU/Linux History compilation
 
-<pre>
-            .--------------.
+<pre>       .--------------.
            '                 '. 
            | Why in Windows?   |
     .--\'  '  _______________/
@@ -18,6 +17,8 @@
 ##What is GNU/Linux?
 
 ##Why I should use it?
+Linux is the most widely used operating system in the world, and is developed by so many hundred of people and enterprises around the world globe, that makes possible to avoid bugs, vulnerabilities and helps to make sure it will be a the most secure operating system giving you a large and big set of tools to use, and it follows the GNU, what allow you to modify and share your changes in the source code.
+
 ##Terminal
 ###basic general command set
 1.ls<br>
@@ -25,6 +26,8 @@
 3.cd<br>
 4.rm<br>
 5.dir<br>
+6.mv<br>
+7.sudo<br>
 ###useful command set
 #Important People
 - > Linus Torvalds
@@ -64,7 +67,7 @@
 - Console TDM
 
 
-##Distros
+##some Linux Distributions
 - Slackware
 - Arch Linux
 - Debian
