@@ -1,7 +1,7 @@
 ##@GNU/Linux Overview
 ######A Super brief GNU/Linux History compilation
 
-<pre>       .--------------.
+<pre>             .--------------.
            '                 '. 
            | Why in Windows?   |
     .--\'  '  _______________/
