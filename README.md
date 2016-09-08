@@ -16,11 +16,11 @@
 
 ##What is GNU/Linux?
 
-##Why I should use it?
+######Why I should use it?
 Linux is the most widely used operating system in the world, and is developed by so many hundred of people and enterprises around the world globe, that makes possible to avoid bugs, vulnerabilities and helps to make sure it will be a the most secure operating system giving you a large and big set of tools to use, and it follows the GNU, what allow you to modify and share your changes in the source code.
 
 ##Terminal
-###basic general command set
+######basic general command set
 1.ls<br>
 2.md<br>
 3.cd<br>
@@ -28,6 +28,19 @@ Linux is the most widely used operating system in the world, and is developed by
 5.dir<br>
 6.mv<br>
 7.sudo<br>
+8.ip
+9.ss
+10.ifconfig
+11.nc
+12.wc
+13.nl
+14.netcat
+15.netstat
+16.ps
+17.grep
+18.less
+19.pgrep
+20.cmp
 ###useful command set
 #Important People
 - > Linus Torvalds
@@ -38,7 +51,7 @@ Linux is the most widely used operating system in the world, and is developed by
   - These guys had created the C Programming Language, that is used a lot in many things inside the linux kernel and GNU software. 
 
 ##Enviroments
-##Window Managers
+######Window Managers
 - 2bwm
 - awesome
 - aewm
@@ -53,7 +66,7 @@ Linux is the most widely used operating system in the world, and is developed by
 - i3wm
 - twm
 
-##Display Managers
+######Display Managers
 - GDM
 - LightDM
 - LXDM
@@ -67,7 +80,7 @@ Linux is the most widely used operating system in the world, and is developed by
 - Console TDM
 
 
-##some Linux Distributions
+######some Linux Distributions
 - Slackware
 - Arch Linux
 - Debian
@@ -78,7 +91,10 @@ Linux is the most widely used operating system in the world, and is developed by
 - ZorinOS
 - Fedora
 - CentOs
-- 
+
+######linux interesting websites
+- kernel.org
+- distrowatch.com
 
 ```c
 #include <stdio.h>
